@@ -28,7 +28,7 @@ body {
   }
 
   .section-bg {
-    background-color: #d1f0e6;
+    /* background-color: #d1f0e6; */
   }
   
   .section-title {
@@ -426,6 +426,7 @@ body {
     z-index: 0;
     border-radius: 0 0 50% 50%;
     transform: translateX(-50%) rotate(0deg);
+    overflow: hidden;
   }
 
   #hero::after {
