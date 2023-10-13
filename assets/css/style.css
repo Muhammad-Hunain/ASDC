@@ -474,13 +474,15 @@ body {
     margin-bottom: 30px;
     font-size: 48px;
     font-weight: 700;
-    margin-top: 400px;
+    margin-top: 200px;
   }
   
   #hero p {
-    width: 80%;
+    width: 100%;
     animation-delay: 0.4s;
-    margin: 0 auto 30px auto;
+    /* margin: 0 auto 30px auto; */
+    font-size: 25px;
+    font-weight: 800;
     color: #fff;
   }
   
