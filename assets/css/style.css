@@ -724,7 +724,7 @@ body {
 }
 
 .about .video-box {
-  clip-path: circle(87.7% at 4% 6%);
+  clip-path: polygon(50% 0%, 80% 10%, 100% 35%, 100% 70%, 80% 90%, 50% 100%, 20% 90%, 0% 70%, 0% 35%, 20% 10%);
 
   position: relative;
 }
